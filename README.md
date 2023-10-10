@@ -7,11 +7,17 @@ Video Link: 10 Oct 2023 Version: https://youtu.be/MCJCEkor-1M
 Normal approach is to use ZOMBIES, see https://blog.wingman-sw.com/tdd-guided-by-zombies
 
 Z – Zero
+
 O – One
+
 M – Many (or More complex)
+
 B – Boundary Behaviors
+
 I – Interface definition
+
 E – Exercise Exceptional behavior
+
 S – Simple Scenarios, Simple Solutions
 
 ## Alternative Approach
@@ -19,11 +25,17 @@ S – Simple Scenarios, Simple Solutions
 So what if we try to test all the exception paths first?
 
 E – Exercise Exceptional behavior
+
 Z – Zero
+
 O – One
+
 M – Many (or More complex)
+
 B – Boundary Behaviors
+
 I – Interface definition
+
 S – Simple Scenarios, Simple Solutions
 
 ## Sample Problem, Bank Accounts with Side Effects
