@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <organization>
         <name>NOrad Ltd.</name>
-        <url>http://www.noradltd.com</url>
+        <url>https://www.noradltd.com</url>
     </organization>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

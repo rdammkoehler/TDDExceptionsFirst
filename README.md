@@ -47,7 +47,7 @@ If the balance exceeds a configured threshold then a withdrawal happens, placing
 The savings account is another service, only accessible during bank-hours, so if we are outside of bank hours, save the transaction as pending for later processing
 
 ### Identified Cases:
-* HP-1: Deposit yields balance < configured amount. No side-effects
+* HP-1: Deposit yields balance < configured amount. No side effects
 * HP-2: Deposit yields balance > configured amount. Transfer funds successfully
 * HP-3: Deposit yields balance > configured amount outside bank hours. Transfer funds is pending.
 * EP-1: Savings service unavailable

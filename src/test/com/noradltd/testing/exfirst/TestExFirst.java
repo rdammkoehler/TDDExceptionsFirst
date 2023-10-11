@@ -113,7 +113,7 @@ class TestExFirst {
     }
 
     @Test
-    void testTransactionAboveThreasholdCausesAccountBalanceToEqualThreshold() {
+    void testTransactionAboveThresholdCausesAccountBalanceToEqualThreshold() {
         SucceedingSavingsService savingsService = new SucceedingSavingsService();
         Account account = new Account(THRESHOLD, new BankClockOpen(), savingsService);
         BigDecimal money = moreThanThreshold();
